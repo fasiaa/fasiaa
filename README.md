@@ -17,6 +17,6 @@
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,java,javascript,react,nextjs,bash,cpp,git,solidity,figma,n8n,mui" />
+    <img src="https://skillicons.dev/icons?i=python,flask,java,javascript,react,nextjs,bash,cpp,git,solidity,figma,mui" />
   </a>
 </p>
