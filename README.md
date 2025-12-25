@@ -1,9 +1,9 @@
 # Welcome!
 ✨ Hello I am Fasia Shahzad ✨
-- A computer enthusiast and developer sharing my journey into tech.
-- Currently pursuing my Bachelors of Computer Sciences from the Institute of Management Sciences.
+- A computer enthusiast and developer who loves building products.
+- Completed my Bachelors of Computer Sciences from the Institute of Management Sciences.
 - Interested in backend development and integrating AI into products. 
-- Currently learning Mobile App Development through React Native
+- Currently exploring cool uses of AI to help solve problems 
 #
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,6 +17,6 @@
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,java,javascript,react,nextjs,bash,cpp,git,solidity,figma" />
+    <img src="https://skillicons.dev/icons?i=python,flask,java,javascript,react,nextjs,bash,cpp,git,solidity,figma,n8n,mui" />
   </a>
 </p>
