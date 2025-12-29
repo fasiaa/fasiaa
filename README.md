@@ -18,5 +18,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,flask,java,javascript,react,nextjs,bash,c,cpp,git,github,solidity,figma,mui" />
+    <img src="https://skills.syvixor.com/api/icons?i=n8n"> 
   </a>
 </p>
